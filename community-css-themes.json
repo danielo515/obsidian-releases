@@ -4215,5 +4215,12 @@
     "repo": "timagestuff/Claude-Notes",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Night Ridge",
+    "author": "Joshua Walls",
+    "repo": "joshua-walls/night-ridge-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

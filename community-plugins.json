@@ -36722,13 +36722,6 @@
     "repo": "waldemar-one/open-anything-obsidian"
   },
   {
-    "id": "mdx-preview",
-    "name": "MDX Preview",
-    "author": "jovialio",
-    "description": "Preview MDX in Obsidian, with support for Code Hike. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jovialio/obsidian-mdx"
-  },
-  {
     "id": "glossary-linker",
     "name": "Glossary Linker",
     "author": "max-fluff",
@@ -36888,5 +36881,12 @@
     "author": "ondreu",
     "description": "Open and view STEP (.step/.stp) CAD models in an interactive 3D viewer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/STEP-viewer"
+  },
+  {
+    "id": "stonks",
+    "name": "Stonks",
+    "author": "dmgx0",
+    "description": "Show live stock, ETF, and crypto prices inline as you type a ticker. Do light math on quotes to track your own portfolio right in your notes. Fetches from Yahoo Finance and works on mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dmgx0/obsidian-stonks"
   }
 ]
