@@ -19523,6 +19523,13 @@
     "repo": "sharkello/notion-sync"
   },
   {
+    "id": "3d-semantic-graph",
+    "name": "3D Semantic Graph",
+    "author": "khr0907",
+    "description": "Visualize your notes in a 3D semantic space using embedding-based layouts or uploaded vectors. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "khr0907/obsidian-3d-semantic-graph"
+  },
+  {
     "id": "workout-logger",
     "name": "Workout Logger",
     "author": "viscosenpai",
@@ -27678,6 +27685,13 @@
     "repo": "whatsyourwhy/Cognitive-Glow"
   },
   {
+    "id": "codex-echoink",
+    "name": "Codex EchoInk",
+    "author": "Akin-Lvyf",
+    "description": "Use Codex CLI or OpenCode in Obsidian to manage knowledge, ask vault questions, and review local agent work. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akin-lvyifang/codex-echoink"
+  },
+  {
     "id": "kai-command-center",
     "name": "KAI Command Center",
     "author": "Jason Peters",
@@ -28635,6 +28649,13 @@
     "author": "kilrkrow",
     "description": "Look up and display Bible verses directly in your notes using the HelloAO Bible API. Supports inline references, code blocks, comparison views, and multiple Bible websites. No API key required. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kilrkrow/obsidian-bible-verse"
+  },
+  {
+    "id": "daily-checklist",
+    "name": "Daily Checklist",
+    "author": "Matt Maiorana",
+    "description": "A minimal sidebar checklist for daily routines, with optional sync to your daily note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mattmaiorana/daily-checklist"
   },
   {
     "id": "git-obsi-sync",
@@ -33589,7 +33610,7 @@
     "id": "agent-fleet",
     "name": "Agent Fleet",
     "author": "Denis Berekchiyan",
-    "description": "File-backed AI agents, task scheduling, and inbox monitoring inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Turn your vault into an AI command center - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "denberek/obsidian-agent-fleet"
   },
   {
@@ -34375,6 +34396,13 @@
     "author": "fengzhe",
     "description": "Automatically resize the current Canvas text node to fit its content. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "laplacede/obsidian-canvas-node-autosize"
+  },
+  {
+    "id": "sidebar-mimocode",
+    "name": "Sidebar MiMo-Code",
+    "author": "AllenX95",
+    "description": "Embeds MiMo-Code CLI Agent as an AI collaborator in your vault. Your vault becomes the working directory, giving MiMo-Code capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "allenx95/sidebar-mimocode"
   },
   {
     "id": "deck-dashboard",
@@ -35630,6 +35658,13 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
+    "id": "md-razor",
+    "name": "MDRazor",
+    "author": "Sofqi",
+    "description": "Enhanced markdown editing: hide formatting markers, list enhancement with soft-break, dir focus. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyse-sofqi/MDRazor"
+  },
+  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -35712,6 +35747,13 @@
     "author": "Real-Fruit-Snacks",
     "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Cove"
+  },
+  {
+    "id": "vault-viewer",
+    "name": "Vault Viewer",
+    "author": "zhouzeqiang",
+    "description": "Browse all file types, filter/sort, and preview Office documents in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhouzeqiang/obsidian-vault-viewer"
   },
   {
     "id": "ai-rewrite",
@@ -35899,7 +35941,7 @@
     "id": "thirdbrain",
     "name": "ThirdBrain",
     "author": "ImCuriosity",
-    "description": "Extract propositions from any text, connect them with typed logical edges, auto-link to your existing graph, and resolve contradictions — all locally with your choice of AI. — 한국어 텍스트에 최적화된 논리 추출 지원! - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" ThirdBrain extracts verifiable propositions, links them with typed logical edges, and auto-detects contradictions. (한국어 지원) - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imcuriosity/third-brain-release"
   },
   {
@@ -36895,5 +36937,33 @@
     "author": "sdking",
     "description": "Rich tables with merges, styles, and choice columns, wikilinks inside fenced code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sdkay/obsidian-rich-table"
+  },
+  {
+    "id": "local-sync",
+    "name": "Local Sync",
+    "author": "Liu Bo",
+    "description": "LAN bidirectional vault sync — CRDT auto-merge, PSK auth, UDP discovery - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liuboacean/obsidian-local-sync-plugin"
+  },
+  {
+    "id": "voice-to-text",
+    "name": "Voice to Text",
+    "author": "SATOSprod",
+    "description": "Push-to-talk voice transcription using Deepgram or Groq. Hold a hotkey to record, release to transcribe and insert at cursor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "satosprod/voice-to-text"
+  },
+  {
+    "id": "ai-commit",
+    "name": "AI Commit",
+    "author": "arumata",
+    "description": "Generate meaningful commit messages via DeepSeek AI for Obsidian Git - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arumata/obsidian-ai-commit"
+  },
+  {
+    "id": "mass-editor",
+    "name": "Mass Editor",
+    "author": "ondreu",
+    "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/mass-editor"
   }
 ]
