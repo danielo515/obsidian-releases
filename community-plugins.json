@@ -14234,7 +14234,7 @@
     "id": "mediaviewer",
     "name": "Media Viewer",
     "author": "devon22",
-    "description": "View and manage media files within your notes.",
+    "description": "Transform notes with beautiful interactive media galleries and seamless fullscreen viewer.",
     "repo": "devon22/obsidian-mediaviewer"
   },
   {
@@ -14710,7 +14710,7 @@
     "id": "gridexplorer",
     "name": "GridExplorer",
     "author": "devon22",
-    "description": "Browse note files in a grid view.",
+    "description": "Browse and organize note files visually in a flexible grid layout.",
     "repo": "devon22/obsidian-gridexplorer"
   },
   {
@@ -30100,6 +30100,13 @@
     "repo": "malweis/obsidian-discord-export"
   },
   {
+    "id": "local-sidekick",
+    "name": "Local Sidekick",
+    "author": "HPuntu",
+    "description": "A local Pi and Ollama llm agent chat sidebar for Obsidian vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hpuntu/obsidian-sidekick"
+  },
+  {
     "id": "literature-review-synthesizer",
     "name": "Literature Review Synthesizer",
     "author": "ibrh96-prog",
@@ -30630,6 +30637,13 @@
     "author": "Sebastien Delisle",
     "description": "Quickly search for and add a single date or an entire list of dates, formatted exactly as you like them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lumargh/obsidian-date-list"
+  },
+  {
+    "id": "apex-dashboard",
+    "name": "Apex Dashboard",
+    "author": "PandoraReads",
+    "description": "Your personal command center — memos, todos, and projects in one stunning glassmorphism dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pandorareads/apex-dashboard"
   },
   {
     "id": "echo-notes",
@@ -31724,6 +31738,13 @@
     "repo": "mayeenulislam/obsidian-dbml-visualizer"
   },
   {
+    "id": "ai-knowledge-hub",
+    "name": "Vault Audit AI",
+    "author": "Zinvernix",
+    "description": "AI-powered vault audit: find orphan notes, cluster topics, get tag and link suggestions, batch-process notes with filters. Works with OpenRouter, OpenAI, Groq or locally via Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zinverno/obsidian-ai-hub"
+  },
+  {
     "id": "maps-of-content",
     "name": "Maps of Content",
     "author": "mkshp-dev",
@@ -31981,6 +32002,13 @@
     "author": "usero2-endofday",
     "description": "Creates a book-like index from words defined in a code block by searching your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "usero2/obsidian-plugins-book-index"
+  },
+  {
+    "id": "weave-incremental-reading",
+    "name": "Weave Incremental Reading",
+    "author": "zhuzhige123",
+    "description": "Standalone incremental reading workflow with topics, reading points, calendar scheduling, and source tracing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhuzhige123/Obsidian-Weave-incremental-reading"
   },
   {
     "id": "lilbee",
@@ -34615,6 +34643,13 @@
     "repo": "leonyew-ley/obsidian-time-stamp-hider"
   },
   {
+    "id": "code-workbench",
+    "name": "Code Workbench",
+    "author": "Vitaly Andrianov",
+    "description": "Claude Code IDE for your knowledge base: a real code editor with syntax highlighting, Prettier formatting, diagnostics, diffs, code review, and inline git  blame, MCP tools for an AI agent - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vitaly-andr/obsidian-code-workbench"
+  },
+  {
     "id": "checksorted",
     "name": "CheckSorted",
     "author": "Javad Esmaeelpour",
@@ -35672,13 +35707,6 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
-    "id": "md-razor",
-    "name": "MDRazor",
-    "author": "Sofqi",
-    "description": "Enhanced markdown editing: hide formatting markers, list enhancement with soft-break, dir focus. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/MDRazor"
-  },
-  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -35716,7 +35744,7 @@
   {
     "id": "inklaw-sync",
     "name": "Inklaw Sync",
-    "author": "InkClaw",
+    "author": "墨爪 Inklaw",
     "description": "Sync notes you forwarded to Inklaw (auto-transcribed and polished) into your vault, with media attachments. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jsjixu/obsidian-inklaw-sync"
   },
@@ -35868,6 +35896,13 @@
     "repo": "newo-j/note-decay"
   },
   {
+    "id": "lotus",
+    "name": "Lotus",
+    "author": "James Karlsson & Thomas Goldman",
+    "description": "Run normal fenced Markdown code blocks in Obsidian while keeping native syntax highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tzadikimbiu/lotus"
+  },
+  {
     "id": "html-effectiveness",
     "name": "HTML Effectiveness",
     "author": "rosswang",
@@ -35915,13 +35950,6 @@
     "author": "caesarloo",
     "description": "Expose dataview/Tasks rendering results via REST API and MCP Server. Let AI tools access your vault's rendered content programmatically. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "caesarloo/render-api"
-  },
-  {
-    "id": "vault-spotlight",
-    "name": "Vault Spotlight",
-    "author": "saiken",
-    "description": "Spotlight-style vault launcher with fuzzy search, recent files, and property filters. Pro unlocks ripgrep search, starred pins, canvas/PDF, batch open, and custom commands. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "israerusan/obsidian-vault-spotlight"
   },
   {
     "id": "invoice-forge",
@@ -35992,6 +36020,13 @@
     "author": "Murat",
     "description": "Send vault reminders and captured app notices to ntfy with auto scan, editable queues, delayed notifications, repeats, and optional AI webhooks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arias007/obsidian-ntfy"
+  },
+  {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "Codex-style AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
   },
   {
     "id": "canvas-layer-order",
@@ -36979,6 +37014,13 @@
     "author": "ondreu",
     "description": "Open and view STEP (.step/.stp) CAD models in an interactive 3D viewer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/STEP-viewer"
+  },
+  {
+    "id": "moon",
+    "name": "Moon",
+    "author": "kneecaps",
+    "description": "oneko port // a cat to chase your cursor and nap when you go idle - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "7368697661/moon"
   },
   {
     "id": "stonks",
