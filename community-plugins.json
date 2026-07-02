@@ -32242,13 +32242,6 @@
     "repo": "notnilc-n/obsidian-desmos-live"
   },
   {
-    "id": "local-pdf-annotator",
-    "name": "PDF Annotator",
-    "author": "Tianchen Hao",
-    "description": "Read PDFs, highlight passages, place page notes, and manage searchable margin annotations stored as local Markdown sidecars. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "alexandert142/Alex-annotator"
-  },
-  {
     "id": "douyin-capture-pro",
     "name": "Douyin Capture Pro",
     "author": "zhaoyaoyuan",
@@ -34615,6 +34608,13 @@
     "repo": "leonyew-ley/obsidian-time-stamp-hider"
   },
   {
+    "id": "code-workbench",
+    "name": "Code Workbench",
+    "author": "Vitaly Andrianov",
+    "description": "Claude Code IDE for your knowledge base: a real code editor with syntax highlighting, Prettier formatting, diagnostics, diffs, code review, and inline git  blame, MCP tools for an AI agent - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vitaly-andr/obsidian-code-workbench"
+  },
+  {
     "id": "checksorted",
     "name": "CheckSorted",
     "author": "Javad Esmaeelpour",
@@ -34900,13 +34900,6 @@
     "author": "sourit2001",
     "description": "A cute private podcast player for local audio files in your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sourit2001/vault-cast"
-  },
-  {
-    "id": "save-history",
-    "name": "Save History",
-    "author": "Gugl",
-    "description": "Save, restore, compare, export, and import file versions; use autosave and custom settings for each file. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sevoni/save-history"
   },
   {
     "id": "swz-quick-memos",
@@ -36806,6 +36799,13 @@
     "repo": "piero24/obsidian-gym-tracker"
   },
   {
+    "id": "google-drive-vault-sync",
+    "name": "Google Drive Vault Sync",
+    "author": "Haniewicz",
+    "description": "Two-way auto/manual sync for an Obsidian vault using Google Drive. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haniewicz/ObsidianGoogleDriveSync"
+  },
+  {
     "id": "sidebar-resource-saver",
     "name": "Sidebar Resource Saver",
     "author": "kjh-portfolio",
@@ -36939,6 +36939,13 @@
     "repo": "williansaez/code-ref-vault"
   },
   {
+    "id": "mineru-parser",
+    "name": "MinerU Parser",
+    "author": "luffysolution-svg",
+    "description": "Right-click a document to parse it into Markdown with MinerU or markitdown, saving the note and image attachments to custom folders. 右键解析文档为 Markdown，正文与图片附件分别保存到自定义位置。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "luffysolution-svg/mineru-to-obsidian"
+  },
+  {
     "id": "jw-relink",
     "name": "JW Relink",
     "author": "floydv149",
@@ -37049,5 +37056,26 @@
     "author": "Anton",
     "description": "Render gene-code lollipop and pedigree diagrams in Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "neznayer/obsidian-gene-code"
+  },
+  {
+    "id": "scalosaurus",
+    "name": "Scalosaurus",
+    "author": "polygonhunter",
+    "description": "Resize embedded images with drag handles and write the size back into the wikilink, with snap-to-column-width. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "polygonhunter/scalosaurus"
+  },
+  {
+    "id": "md-calendar",
+    "name": "MD Calendar",
+    "author": "mrrepac",
+    "description": "A calendar that lives in one Markdown note: a code block renders switchable month / week / day / agenda views — events and tasks, recurrence, colors, notes, drag-to-reschedule, keyboard control — and writes all data back into that same block. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/obsidian-md-calendar"
+  },
+  {
+    "id": "plain-links-tools",
+    "name": "Plain Links Tools",
+    "author": "Sohei Ide",
+    "description": "Make bare email addresses and selected links behave like plain text in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "soheidon/Plain-Links-Tools"
   }
 ]
