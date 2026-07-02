@@ -4229,5 +4229,12 @@
     "repo": "joshua-walls/night-ridge-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Darkrune",
+    "author": "doritosuai",
+    "repo": "doritosuai/darkrune",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
   }
 ]

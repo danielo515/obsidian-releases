@@ -31724,13 +31724,6 @@
     "repo": "mayeenulislam/obsidian-dbml-visualizer"
   },
   {
-    "id": "ai-knowledge-hub",
-    "name": "Vault Audit AI",
-    "author": "Zinvernix",
-    "description": "AI-powered vault audit: find orphan notes, cluster topics, get tag and link suggestions, batch-process notes with filters. Works with OpenRouter, OpenAI, Groq or locally via Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zinverno/obsidian-ai-hub"
-  },
-  {
     "id": "maps-of-content",
     "name": "Maps of Content",
     "author": "mkshp-dev",
@@ -34620,13 +34613,6 @@
     "author": "LeonYew-Ley",
     "description": "Hide timestamp prefixes in Zettelkasten-style internal link display text without changing notes or filenames. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leonyew-ley/obsidian-time-stamp-hider"
-  },
-  {
-    "id": "code-workbench",
-    "name": "Code Workbench",
-    "author": "Vitaly Andrianov",
-    "description": "Claude Code IDE for your knowledge base: a real code editor with syntax highlighting, Prettier formatting, diagnostics, diffs, code review, and inline git  blame, MCP tools for an AI agent - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vitaly-andr/obsidian-code-workbench"
   },
   {
     "id": "checksorted",
