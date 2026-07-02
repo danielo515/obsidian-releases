@@ -27783,6 +27783,13 @@
     "repo": "jordanvasu/link-unlinked-mentions"
   },
   {
+    "id": "ziping",
+    "name": "Ziping",
+    "author": "Sofqi",
+    "description": "Ziping Bazi Layout Plugin - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyse-sofqi/ziping"
+  },
+  {
     "id": "energy-tracker",
     "name": "30-Day Energy Log",
     "author": "Miranda",
@@ -28061,6 +28068,13 @@
     "author": "Ivan Chen",
     "description": "Keeps Markdown tabs under a limit by replacing the least recently used tab. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fireshort/obsidian-tab-limit"
+  },
+  {
+    "id": "ghosty-posty",
+    "name": "Ghosty Posty",
+    "author": "mattbirchler",
+    "description": "Post your notes to your Ghost blog. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mattbirchler/ghosty-posty-obsidian"
   },
   {
     "id": "redline",
@@ -34601,13 +34615,6 @@
     "repo": "leonyew-ley/obsidian-time-stamp-hider"
   },
   {
-    "id": "code-workbench",
-    "name": "Code Workbench",
-    "author": "Vitaly Andrianov",
-    "description": "Claude Code IDE for your knowledge base: a real code editor with syntax highlighting, Prettier formatting, diagnostics, diffs, code review, and inline git  blame, MCP tools for an AI agent - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vitaly-andr/obsidian-code-workbench"
-  },
-  {
     "id": "checksorted",
     "name": "CheckSorted",
     "author": "Javad Esmaeelpour",
@@ -36232,6 +36239,13 @@
     "repo": "p77-don/form-builder"
   },
   {
+    "id": "mermaid-canvas",
+    "name": "Mermaid Canvas",
+    "author": "cheney",
+    "description": "Enhanced Mermaid diagram editor with adaptive canvas, smooth zoom/pan, split view, and fullscreen support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cheney12138/mermaid-canvas-plugin"
+  },
+  {
     "id": "media-grid",
     "name": "Media Grid",
     "author": "subhash-sarangi",
@@ -36932,6 +36946,13 @@
     "repo": "floydv149/JW-Relink"
   },
   {
+    "id": "coderecall",
+    "name": "CodeRecall",
+    "author": "rixct",
+    "description": "Anki + LeetCode inside Obsidian: cloze deletions in code with auto-graded active recall and spaced repetition. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rixct/code-recall"
+  },
+  {
     "id": "towrite-open-questions",
     "name": "ToWrite Open Questions",
     "author": "Rick",
@@ -36995,10 +37016,38 @@
     "repo": "bailey-moir/latex-callouts"
   },
   {
+    "id": "html-v-editor",
+    "name": "HTML V Editor",
+    "author": "mandolin",
+    "description": "Edit and preview HTML/HTM files, html-v blocks, and embedded HTML inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mandolin/obsidian-html-v-editor"
+  },
+  {
     "id": "plugin-helper",
     "name": "Community Helper",
     "author": "zqDeJob",
     "description": "Browse installed community plugins with official descriptions, Chinese annotations, and editable personal notes in the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zqdejob/obsidian-plugin-helper"
+  },
+  {
+    "id": "trellis",
+    "name": "Trellis",
+    "author": "CocaPls",
+    "description": "Sync a hierarchical location tag (source of truth) into the filename prefix (tagkey). Cascade rename, sidebar tree view, vault bootstrap, and separator batch-change — all link-safe. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cocapls/obsidian-trellis"
+  },
+  {
+    "id": "excalidraw-stylus-menu",
+    "name": "Excalidraw Stylus Menu",
+    "author": "avtarasov210",
+    "description": "Stylus/S Pen gestures for Excalidraw: open an insert menu by tap or side button, tap objects for quick actions, and copy, paste or connect shapes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "delfinchiknakite-netizen/excalidraw-stylus-menu"
+  },
+  {
+    "id": "gene-code",
+    "name": "Gene Code",
+    "author": "Anton",
+    "description": "Render gene-code lollipop and pedigree diagrams in Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "neznayer/obsidian-gene-code"
   }
 ]
