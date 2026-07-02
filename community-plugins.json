@@ -18452,13 +18452,6 @@
     "repo": "llewellyn500/obsidian-tether"
   },
   {
-    "id": "health-md",
-    "name": "Health.md Visualizations",
-    "author": "codybontecou",
-    "description": "Render Apple Health data visualizations from JSON, CSV, or Markdown files, with custom date and time range filters. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "codybontecou/health-md-visualizations"
-  },
-  {
     "id": "odyssey",
     "name": "Odyssey",
     "author": "zzzzswh",
@@ -26864,13 +26857,6 @@
     "author": "Johannes Schwartz",
     "description": "Timeline-Renderer für Calendarium-Frontmatter (fc-date/fc-end). 200×315 Bild, Callout-Stil, native Popover, mobilfreundlich. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jareika/Simple-Timeline"
-  },
-  {
-    "id": "ttrpg-tools-time",
-    "name": "TTRPG Tools - Time",
-    "author": "Johannes Schwartz",
-    "description": "Fantasy calendar with timeline view. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jareika/ttrpg-tools-time"
   },
   {
     "id": "swaggerjson-to-markdown",
@@ -35707,6 +35693,13 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
+    "id": "md-razor",
+    "name": "MDRazor",
+    "author": "Sofqi",
+    "description": "Enhanced markdown editing: hide formatting markers, list enhancement with soft-break, dir focus. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyse-sofqi/MDRazor"
+  },
+  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -35952,6 +35945,13 @@
     "repo": "caesarloo/render-api"
   },
   {
+    "id": "vault-spotlight",
+    "name": "Vault Spotlight",
+    "author": "saiken",
+    "description": "Spotlight-style vault launcher with fuzzy search, recent files, and property filters. Pro unlocks ripgrep search, starred pins, canvas/PDF, batch open, and custom commands. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/obsidian-vault-spotlight"
+  },
+  {
     "id": "invoice-forge",
     "name": "Invoice Forge",
     "author": "saiken",
@@ -36090,13 +36090,6 @@
     "author": "shimengjie",
     "description": "Right-click selected text in the editor to apply color, font size, or bold from a configurable palette. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "callmekeyboardman/text-brush"
-  },
-  {
-    "id": "bases-power-pack",
-    "name": "Bases Power Pack",
-    "author": "saiken",
-    "description": "Advanced database views and automation for Obsidian Bases: kanban, calendar, Gantt, roll-ups, formulas, and saved filters. Free lite tier plus license-gated premium features. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "israerusan/bases-power-pack"
   },
   {
     "id": "tascal",
@@ -36981,6 +36974,13 @@
     "repo": "williansaez/code-ref-vault"
   },
   {
+    "id": "neural-vault",
+    "name": "Neural Vault",
+    "author": "Willian Saez",
+    "description": "Lights up graph nodes like a brain as Claude Code reads your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "williansaez/neural-vault"
+  },
+  {
     "id": "mineru-parser",
     "name": "MinerU Parser",
     "author": "luffysolution-svg",
@@ -37140,5 +37140,26 @@
     "author": "HXXXL",
     "description": "Chat with DeepSeek models in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hxxxl/obsidian-deepseek-cli"
+  },
+  {
+    "id": "jokebakery-sync",
+    "name": "JokeBakery Sync",
+    "author": "James Hooker",
+    "description": "Two-way sync of your JokeBakery jokes, sprints, lists and crashes with your vault as Markdown. Requires a JokeBakery account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jimhooker/jokebakery-obsidian"
+  },
+  {
+    "id": "property-explorer",
+    "name": "Property Explorer",
+    "author": "October",
+    "description": "Explore all vault properties in an expandable right-pane tree — browse by key → value → note, with search and sorting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "october-learns/obsidian-property-explorer"
+  },
+  {
+    "id": "huanmuyu",
+    "name": "Huanmuyu",
+    "author": "monoi",
+    "description": "换母语 · 多语言每日打卡/朗读/划词存生词库 学习系统 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiangzizhao/huanmuyu-plugin"
   }
 ]
