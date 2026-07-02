@@ -7245,13 +7245,6 @@
     "repo": "ellpeck/ObsidianJustSharePlease"
   },
   {
-    "id": "typewriter-mode",
-    "name": "Typewriter Mode",
-    "author": "davisriedel",
-    "description": "Typewriter scroll, writing focus, current line highlight, paragraph dimming, and more!",
-    "repo": "davisriedel/obsidian-typewriter-mode"
-  },
-  {
     "id": "js-engine",
     "name": "JS Engine",
     "author": "Moritz Jung",
@@ -34384,13 +34377,6 @@
     "repo": "laplacede/obsidian-canvas-node-autosize"
   },
   {
-    "id": "sidebar-mimocode",
-    "name": "Sidebar MiMo-Code",
-    "author": "AllenX95",
-    "description": "Embeds MiMo-Code CLI Agent as an AI collaborator in your vault. Your vault becomes the working directory, giving MiMo-Code capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "allenx95/sidebar-mimocode"
-  },
-  {
     "id": "deck-dashboard",
     "name": "Deck",
     "author": "Yuto Takagi",
@@ -35644,13 +35630,6 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
-    "id": "md-razor",
-    "name": "MDRazor",
-    "author": "Sofqi",
-    "description": "Enhanced markdown editing: hide formatting markers, list enhancement with soft-break, dir focus. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/MDRazor"
-  },
-  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -36855,13 +36834,6 @@
     "repo": "young-caveman/wisdio-companion"
   },
   {
-    "id": "secret-notes",
-    "name": "Secret Notes",
-    "author": "Kasukabe Tsumugi",
-    "description": "Encrypt and preview editable secret code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "baendlorel/obsidian-secret-notes"
-  },
-  {
     "id": "daily-notes-compiler",
     "name": "Daily Notes Compiler",
     "author": "pragatinath",
@@ -36916,5 +36888,12 @@
     "author": "dmgx0",
     "description": "Show live stock, ETF, and crypto prices inline as you type a ticker. Do light math on quotes to track your own portfolio right in your notes. Fetches from Yahoo Finance and works on mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dmgx0/obsidian-stonks"
+  },
+  {
+    "id": "rich-table",
+    "name": "Rich Table",
+    "author": "sdking",
+    "description": "Rich tables with merges, styles, and choice columns, wikilinks inside fenced code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sdkay/obsidian-rich-table"
   }
 ]
