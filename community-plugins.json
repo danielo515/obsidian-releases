@@ -19530,13 +19530,6 @@
     "repo": "sharkello/notion-sync"
   },
   {
-    "id": "3d-semantic-graph",
-    "name": "3D Semantic Graph",
-    "author": "khr0907",
-    "description": "Visualize your notes in a 3D semantic space using embedding-based layouts or uploaded vectors. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "khr0907/obsidian-3d-semantic-graph"
-  },
-  {
     "id": "workout-logger",
     "name": "Workout Logger",
     "author": "viscosenpai",
@@ -30163,6 +30156,13 @@
     "repo": "imhlq/obsidian-runescribe"
   },
   {
+    "id": "auto-llm-wiki",
+    "name": "Auto LLM Wiki",
+    "author": "youzhixiaomutou",
+    "description": "Maintain a Karpathy-style LLM Wiki with AI-assisted ingest, query, lint, and previewed file changes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "youzhixiaomutou/auto-llm-wiki"
+  },
+  {
     "id": "better-headings",
     "name": "Better Headings",
     "author": "zachbugay",
@@ -36722,6 +36722,13 @@
     "repo": "waldemar-one/open-anything-obsidian"
   },
   {
+    "id": "mdx-preview",
+    "name": "MDX Preview",
+    "author": "jovialio",
+    "description": "Preview MDX in Obsidian, with support for Code Hike. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jovialio/obsidian-mdx"
+  },
+  {
     "id": "glossary-linker",
     "name": "Glossary Linker",
     "author": "max-fluff",
@@ -36792,6 +36799,13 @@
     "repo": "masoudmim/obsidian-uncertainty-calc"
   },
   {
+    "id": "wayinvideo-video-summarizer-and-transcript-generator",
+    "name": "Video Summarizer and Transcript Generator",
+    "author": "WayinVideo",
+    "description": "Create video summaries and speaker-labeled transcripts with WayinVideo. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wayinvideo/WayinVideo-Obsidian-Plugin"
+  },
+  {
     "id": "qmd-preview",
     "name": "QMD Preview",
     "author": "elliotxx",
@@ -36841,6 +36855,13 @@
     "repo": "young-caveman/wisdio-companion"
   },
   {
+    "id": "secret-notes",
+    "name": "Secret Notes",
+    "author": "Kasukabe Tsumugi",
+    "description": "Encrypt and preview editable secret code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "baendlorel/obsidian-secret-notes"
+  },
+  {
     "id": "daily-notes-compiler",
     "name": "Daily Notes Compiler",
     "author": "pragatinath",
@@ -36853,6 +36874,13 @@
     "author": "Leandro Voltolino",
     "description": "A floating, Capacities-style table of contents with a minimap on the edge, active-heading tracking, click-to-scroll and document stats. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xupisco/obisidian-suble-toc"
+  },
+  {
+    "id": "cloudweave",
+    "name": "CloudWeave",
+    "author": "abcamus",
+    "description": "Cloud-storage file nodes + AI analysis for Obsidian Canvas. Browse & insert files from Aliyun, Baidu, Quark, OneDrive. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "abcamus/cloudweave"
   },
   {
     "id": "ztsd-vault-backup",
