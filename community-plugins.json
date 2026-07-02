@@ -23149,6 +23149,13 @@
     "repo": "iamjjanga-ouo/obsidian-link"
   },
   {
+    "id": "md-beautify",
+    "name": "MD Beautify",
+    "author": "sliiu",
+    "description": "An elegant Markdown beautifier for WeChat and other platforms. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sliiu/obsidian-md-beautify-plugin"
+  },
+  {
     "id": "require-final-newline",
     "name": "Require Final Newline",
     "author": "nnoodle",
@@ -27774,13 +27781,6 @@
     "author": "Jordan Vasu",
     "description": "Bulk-link all unlinked mentions of the active note (and its aliases) across the vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jordanvasu/link-unlinked-mentions"
-  },
-  {
-    "id": "ziping",
-    "name": "Ziping",
-    "author": "Sofqi",
-    "description": "Ziping Bazi Layout Plugin - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/ziping"
   },
   {
     "id": "energy-tracker",
@@ -34895,6 +34895,13 @@
     "repo": "sourit2001/vault-cast"
   },
   {
+    "id": "save-history",
+    "name": "Save History",
+    "author": "Gugl",
+    "description": "Save, restore, compare, export, and import file versions; use autosave and custom settings for each file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sevoni/save-history"
+  },
+  {
     "id": "swz-quick-memos",
     "name": "Quick Memo",
     "author": "songwz",
@@ -36876,6 +36883,13 @@
     "repo": "young-caveman/wisdio-companion"
   },
   {
+    "id": "secret-notes",
+    "name": "Secret Notes",
+    "author": "Kasukabe Tsumugi",
+    "description": "Encrypt and preview editable secret code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "baendlorel/obsidian-secret-notes"
+  },
+  {
     "id": "daily-notes-compiler",
     "name": "Daily Notes Compiler",
     "author": "pragatinath",
@@ -36918,6 +36932,13 @@
     "repo": "floydv149/JW-Relink"
   },
   {
+    "id": "towrite-open-questions",
+    "name": "ToWrite Open Questions",
+    "author": "Rick",
+    "description": "Track ToThink and ToWrite annotations beside your source notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gitmorric/towrite-open-questions"
+  },
+  {
     "id": "step-viewer",
     "name": "STEP Viewer",
     "author": "ondreu",
@@ -36939,18 +36960,18 @@
     "repo": "sdkay/obsidian-rich-table"
   },
   {
-    "id": "local-sync",
-    "name": "Local Sync",
-    "author": "Liu Bo",
-    "description": "LAN bidirectional vault sync — CRDT auto-merge, PSK auth, UDP discovery - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "liuboacean/obsidian-local-sync-plugin"
-  },
-  {
     "id": "voice-to-text",
     "name": "Voice to Text",
     "author": "SATOSprod",
     "description": "Push-to-talk voice transcription using Deepgram or Groq. Hold a hotkey to record, release to transcribe and insert at cursor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "satosprod/voice-to-text"
+  },
+  {
+    "id": "frontmatter-operator",
+    "name": "Frontmatter Operator",
+    "author": "Sebastian Hanke",
+    "description": "Bulk-edit YAML frontmatter across the vault, or generate it from note content with an LLM. Snapshot undo. For OKF (Open Knowledge Format) migration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pssah4/frontmatter-operator"
   },
   {
     "id": "ai-commit",
@@ -36965,5 +36986,19 @@
     "author": "ondreu",
     "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/mass-editor"
+  },
+  {
+    "id": "latex-callouts",
+    "name": "Latex Styled Callouts",
+    "author": "Bailey Moir",
+    "description": "Callouts themed as LaTeX blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bailey-moir/latex-callouts"
+  },
+  {
+    "id": "plugin-helper",
+    "name": "Community Helper",
+    "author": "zqDeJob",
+    "description": "Browse installed community plugins with official descriptions, Chinese annotations, and editable personal notes in the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zqdejob/obsidian-plugin-helper"
   }
 ]
