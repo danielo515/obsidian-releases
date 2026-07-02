@@ -18690,6 +18690,13 @@
     "repo": "tcatlas/obsidian-notes-calendar"
   },
   {
+    "id": "cloud-attach",
+    "name": "CloudAttach",
+    "author": "Garry",
+    "description": "Connect to OpenList and manage cloud attachments, insert signed file links into notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "curryhendry/obsidian-cloud-attach"
+  },
+  {
     "id": "ollama-notes-chat",
     "name": "Ollama Notes Chat",
     "author": "Taylor D. Marchetta",
@@ -28532,6 +28539,13 @@
     "repo": "obsidian-ttrpg-community/Randomness"
   },
   {
+    "id": "seafile-continued",
+    "name": "Seafile Sync",
+    "author": "ryanravn",
+    "description": "Sync notes across devices using Seafile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ryanravn/obsidian-seafile-continued"
+  },
+  {
     "id": "live-data-hub",
     "name": "Live Data Hub",
     "author": "chefrocker",
@@ -34902,6 +34916,13 @@
     "repo": "sourit2001/vault-cast"
   },
   {
+    "id": "save-history",
+    "name": "Save History",
+    "author": "Gugl",
+    "description": "Save, restore, compare, export, and import file versions; use autosave and custom settings for each file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sevoni/save-history"
+  },
+  {
     "id": "swz-quick-memos",
     "name": "Quick Memo",
     "author": "songwz",
@@ -35948,7 +35969,7 @@
     "id": "thirdbrain",
     "name": "ThirdBrain",
     "author": "ImCuriosity",
-    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" ThirdBrain extracts verifiable propositions, links them with typed logical edges, and auto-detects contradictions. (한국어 지원) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" Powered by AxiomBrain, it extracts logic, links edges, and auto-resolves conflicts. (한국어 텍스트에 최적화된 무모순 논리 연산 지원) - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imcuriosity/third-brain-release"
   },
   {
@@ -37068,7 +37089,7 @@
     "id": "md-calendar",
     "name": "MD Calendar",
     "author": "mrrepac",
-    "description": "A calendar that lives in one Markdown note: a code block renders switchable month / week / day / agenda views — events and tasks, recurrence, colors, notes, drag-to-reschedule, keyboard control — and writes all data back into that same block. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A full calendar in a single Markdown note: month/week/day/agenda views with events, tasks, recurrence, colors, drag-to-reschedule and keyboard control, all stored in one code block. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrrepac/obsidian-md-calendar"
   },
   {
@@ -37077,5 +37098,19 @@
     "author": "Sohei Ide",
     "description": "Make bare email addresses and selected links behave like plain text in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "soheidon/Plain-Links-Tools"
+  },
+  {
+    "id": "songwriter-player",
+    "name": "Songwriter Player",
+    "author": "mrrepac",
+    "description": "Advanced sidebar audio player for songwriting: waveform, work marker, A-B loop zone, play counters and hotkeys. Playback survives note scrolling and closing the panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/obsidian-songwriter-player"
+  },
+  {
+    "id": "deepseek-cli",
+    "name": "DeepSeek CLI Chat",
+    "author": "HXXXL",
+    "description": "Chat with DeepSeek models in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hxxxl/obsidian-deepseek-cli"
   }
 ]
